@@ -1,16 +1,20 @@
-# React + Vite
+# 🏠 Rental House Finder App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 About
+This is a rental housing web application built using React + Vite. It connects property owners and tenants in one platform. Owners can list their houses or apartments for rent, and users can browse available properties to find a suitable home easily. The goal of this project is to make the house rental process simple, fast, and user-friendly.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+👉 https://cummute-iq.onrender.com
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ⚙️ Tech Stack
+React, Vite, JavaScript, CSS
 
-## React Compiler
+## 🚀 Features
+- Owners can add rental properties
+- Users can browse available houses
+- View property details
+- Responsive design for all devices
+- Fast performance using Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👨‍💻 Author
+Hitanshu Meshram
